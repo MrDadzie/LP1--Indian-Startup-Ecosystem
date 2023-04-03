@@ -1,0 +1,1 @@
+The requirements for displaying the Power BI dashboard is Power BI Pro or Power BI desktop on machine.
